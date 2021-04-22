@@ -1,0 +1,12 @@
+name: experimenting-with-rubicon
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+
+  - rubicon-ml
+  - scikit-learn
+
+  - pip:
+    - palmerpenguins
