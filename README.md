@@ -12,3 +12,6 @@ experiments logged by `my_model.py` will contain a direct reference
 to the code on GitHub that produced them. These references are
 used by the Rubicon dashboard to generate links to the code on
 GitHub.
+
+More info on the Palmer penguins dataset used in this example can
+be found [here](https://allisonhorst.github.io/palmerpenguins/).
