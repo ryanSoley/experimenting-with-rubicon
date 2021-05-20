@@ -2,7 +2,7 @@ import os
 import pickle
 
 import numpy as np
-from rubicon import Rubicon
+from rubicon_ml import Rubicon
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import KNeighborsClassifier
